@@ -1,0 +1,8 @@
+D:\git\tiedostojen-kasittely-MusikaalinenTaidoton\bin\Debug\ConsoleApplication.exe.config
+D:\git\tiedostojen-kasittely-MusikaalinenTaidoton\bin\Debug\ConsoleApplication.exe
+D:\git\tiedostojen-kasittely-MusikaalinenTaidoton\bin\Debug\ConsoleApplication.pdb
+D:\git\tiedostojen-kasittely-MusikaalinenTaidoton\obj\x86\Debug\tiedostojen kasittely.csproj.AssemblyReference.cache
+D:\git\tiedostojen-kasittely-MusikaalinenTaidoton\obj\x86\Debug\tiedostojen kasittely.csproj.SuggestedBindingRedirects.cache
+D:\git\tiedostojen-kasittely-MusikaalinenTaidoton\obj\x86\Debug\tiedostojen kasittely.csproj.CoreCompileInputs.cache
+D:\git\tiedostojen-kasittely-MusikaalinenTaidoton\obj\x86\Debug\ConsoleApplication.exe
+D:\git\tiedostojen-kasittely-MusikaalinenTaidoton\obj\x86\Debug\ConsoleApplication.pdb
